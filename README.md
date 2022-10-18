@@ -10,10 +10,11 @@ You were hired top built a simple system to manage a parking lot, and its operat
 ## You will have to build your C# console app by following the diagram below 
 ![Diagrama de classe estacionamento](diagrama_classe_estacionamento.png) 
 
-Estacionamento = parking lot
-preço inicial = initial fare 
-preço por hora = price per Hour 
-veiculo = vehicles
-adicionar = add
-remover = remove 
-listar = list 
+
+#### Estacionamento = parking lot
+#### preço inicial = initial fare 
+#### preço por hora = price per Hour 
+#### veiculo = vehicles
+#### adicionar = add
+#### remover = remove 
+#### listar = list 
