@@ -5,7 +5,7 @@ www.dio.me
 In order to complete this challenge you'll have to use tha knowledge acquired by finishing .NET DIO's course.
 
 ## Context
-You were hired top built a simple system to manage a parking lot, and its operations, like add a vehicle to the system, remove it and calculate the bill to be payed.
+You were hired to built a simple system to manage a parking lot, and its operations, like add a vehicle to the system, remove it and calculate the bill to be payed.
 
 ## You will have to build your C# console app by following the diagram below 
 ![Diagrama de classe estacionamento](diagrama_classe_estacionamento.png) 
